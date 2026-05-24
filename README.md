@@ -194,20 +194,20 @@ Letakkan gambar di folder `screenshots/`. Contoh penamaan file:
 
 ### Login
 
-<img src="screenshots/Login_screen.jpeg" alt="Layar Login" width="300px" />
+<img src="ChatApp/screenshots/Login_screen.jpeg" alt="Layar Login" width="300px" />
 
 ### Registrasi
 
-<img src="screenshots/register_Screen.jpeg" alt="Layar Registrasi" width="300px" />
+<img src="ChatApp/screenshots/register_Screen.jpeg" alt="Layar Registrasi" width="300px" />
 
 ### Daftar User
 
-<img src="screenshots/UserList.jpeg" alt="Layar Daftar User" width="300px" />
+<img src="ChatApp/screenshots/UserList.jpeg" alt="Layar Daftar User" width="300px" />
 
 ### Chat
 
-<img src="screenshots/Chat_Screen1.jpeg" alt="Layar Chat" width="300px" />
-<img src="screenshots/Chat_Screen2.jpeg" alt="Layar Chat2" width="300px" />
+<img src="ChatApp/screenshots/Chat_Screen1.jpeg" alt="Layar Chat" width="300px" />
+<img src="ChatApp/screenshots/Chat_Screen2.jpeg" alt="Layar Chat2" width="300px" />
 
 ## Referensi
 
